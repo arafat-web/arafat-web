@@ -51,12 +51,12 @@ Here are some ideas to get you started:
 <br />
 ## <summary>:zap: Top Languages</summary>
 <a href="https://github.com/arafat-hossain-ar/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arafat-hossain-ar&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arafat-hossain-ar&repo=github-readme-stats&theme=radical" />
 </a>
 
 <br />
 ## <summary>:zap: My GitHub Stats</summary>
-### Please give me a [⭐️] if you like my projects!
+###Please give me a [⭐️] if you like my projects!
 <img align="left" alt="Arafat's GitHub Stats" src="https://github-readme-stats-git-master.alexisbec.vercel.app/api?username=arafat-hossain-ar&show_icons=true&hide_border=true&theme=radical" />
 
 <br />
