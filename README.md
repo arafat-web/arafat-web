@@ -50,9 +50,9 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-## <summary>:zap: GitHub Stats</summary>
+## <summary>:zap: My GitHub Stats</summary>
 
-<img align="left" alt="alexisbec's GitHub Stats" src="https://github-readme-stats-git-master.alexisbec.vercel.app/api?username=arafat-hossain-ar&show_icons=true&hide_border=true" />
+<img align="left" alt="Arafat's GitHub Stats" src="https://github-readme-stats-git-master.alexisbec.vercel.app/api?username=arafat-hossain-ar&show_icons=true&hide_border=true&theme=radical" />
 
 <br />
 <br />
