@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 
 <br />
 <br />
-## <summary>:zap: Usages</summary>
+## <summary>:zap: Top Languages</summary>
 <a href="https://github.com/arafat-hossain-ar/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arafat-hossain-ar&repo=github-readme-stats" />
 </a>
