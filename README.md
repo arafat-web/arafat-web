@@ -50,15 +50,15 @@ Here are some ideas to get you started:
 <br />
 <br />
 ## <summary>:zap: Top Languages</summary>
-
+<br />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arafat-hossain-ar&repo=github-readme-stats&theme=radical&hide_border=true" />
-
-
 <br />
 ## <summary>:zap: My GitHub Stats</summary>
-### Please give me a [⭐️] if you like my projects!
+
 <img align="left" alt="Arafat's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=arafat-hossain-ar&include_all_commits=true&hide_border=true&show_icons=true&theme=radical" />
 
+<br />
+### Please give me a [⭐️] if you like my projects!
 <br />
 <br />
 
