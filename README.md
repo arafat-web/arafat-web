@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 <br />
 <br />
 ## <summary>:zap: Usages</summary>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arafat-hossain-ar)](https://github.com/arafat-hossain-ar/github-readme-stats)
+
 
 <br />
 ## <summary>:zap: My GitHub Stats</summary>
@@ -65,7 +65,7 @@ Here are some ideas to get you started:
 
 
 
-[alexisbec]: https://github.com/arafat-hossain-ar
+[arafat-hossain-ar]: https://github.com/arafat-hossain-ar
 [twitter]: https://twitter.com/arafat_hossain0
 [facebook]: https://www.facebook.com/arafathossain000/
 [instagram]: https://www.instagram.com/arafat_hossain_ar/
