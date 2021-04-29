@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 <br />
 ## <summary>:zap: My GitHub Stats</summary>
 
-<img align="left" alt="Arafat's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=arafat-hossain-ar&include_all_commits=true&hide_border=true&show_icons=true&theme=radical" />
+<img align="center" alt="Arafat's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=arafat-hossain-ar&include_all_commits=true&hide_border=true&show_icons=true&theme=radical" />
 
 <br />
 ### Please give me a [⭐️] if you like my projects!
