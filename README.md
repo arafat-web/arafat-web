@@ -17,12 +17,12 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on nothing 🙄
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking to collaborate with other programmer.
 - 💬 Ask me about nothing 🙄
-- 💻 Student at Computer Science and Engineering
+- 💻 Student of Computer Science and Engineering
 -  📍 Rajshahi, Bangladesh
 
-### Connect with me:
+<h3><summary>:zap: Connect with me:</summary></h3>
 
 [<img align="left" alt="Arafat | FaceBook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="Arafat | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -30,8 +30,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="Arafat | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
-
-### Languages and Tools:
+<h3><summary>:zap: Languages and Tools:</summary></h3>
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -47,19 +46,19 @@ Here are some ideas to get you started:
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 <br />
-<br />
-## <summary>:zap: Top Languages</summary>
+
+<h3><summary>:zap: Top Languages</summary></h3>
 <br />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arafat-hossain-ar&repo=github-readme-stats&theme=radical&hide_border=true" />
 <br />
-## <summary>:zap: My GitHub Stats</summary>
+<h3><summary>:zap: My GitHub Stats</summary></h3>
 
 <img align="center" alt="Arafat's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=arafat-hossain-ar&include_all_commits=true&hide_border=true&show_icons=true&theme=radical" />
 
 <br />
-### Please give me a [⭐️] if you like my projects!
-<br />
-<br />
+<h2>Please give me a [⭐️] if you like my projects!</h2>
+<hr/>
+
 
 
 
