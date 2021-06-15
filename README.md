@@ -49,11 +49,11 @@ Here are some ideas to get you started:
 
 <h3><summary>:zap: Top Languages</summary></h3>
 <br />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arafat-hossain-ar&repo=github-readme-stats&theme=radical&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arafat-web&repo=github-readme-stats&theme=radical&hide_border=true" />
 <br />
 <h3><summary>:zap: My GitHub Stats</summary></h3>
 
-<img align="center" alt="Arafat's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=arafat-hossain-ar&include_all_commits=true&hide_border=true&show_icons=true&theme=radical" />
+<img align="center" alt="Arafat's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=arafat-web&include_all_commits=true&hide_border=true&show_icons=true&theme=radical" />
 
 <br />
 <h2>Please give me a [⭐️] if you like my projects!</h2>
@@ -65,9 +65,9 @@ Here are some ideas to get you started:
 
 
 
-[arafat-hossain-ar]: https://github.com/arafat-hossain-ar
+[arafat-hossain-ar]: https://github.com/arafat-web
 [twitter]: https://twitter.com/arafat_hossain0
 [facebook]: https://www.facebook.com/arafathossain000/
 [instagram]: https://www.instagram.com/arafat_hossain_ar/
 [linkedin]: https://www.linkedin.com/in/arafat-hossain-ar-a174b51a6/
-[⭐️]: https://github.com/arafat-hossain-ar?tab=repositories
+[⭐️]: https://github.com/arafat-web?tab=repositories
