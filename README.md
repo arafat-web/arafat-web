@@ -1,4 +1,7 @@
 ## Hi there! I'm Arafat Hossain Ar👋.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arafat-web&label=Profile%20views&color=0e75b6&style=flat" alt="arafat-web" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arafat-web" alt="arafat-web" /></a> </p>
 
 <!--
 **arafat-hossain-ar/arafat-hossain-ar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
