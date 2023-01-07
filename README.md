@@ -81,12 +81,6 @@ Here are some ideas to get you started:
 
 <br />
 <h2>Please give me a [⭐️] if you like my projects!</h2>
-<hr/>
-
-
-
-
-
 
 
 [arafat-hossain-ar]: https://github.com/arafat-web
