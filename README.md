@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on nothing 🙄
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other programmer.
-- 💬 Ask me about nothing 🙄
+- 🔭 I’m currently working on Laravel Projects.
+- 🌱 I’m currently learning Vue and API development.
+- 👯 I’m looking to collaborate with Laravel and API related things.
+- 💬 Ask me about PHP, JAVA SQL, JAVAFX, JSP, LARAVEL, MYSQL 🙄
 - 💻 Student of Computer Science and Engineering
 -  📍 Rajshahi, Bangladesh
 
