@@ -65,15 +65,13 @@ Here are some ideas to get you started:
 
 <h3><summary>:zap: My GitHub Stats</summary></h3>
 
-
-<img align="center" alt="Arafat's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=arafat-web&include_all_commits=true&hide_border=true&show_icons=true&theme=radical" />
+![arafat's Stats](https://github-readme-stats.vercel.app/api?username=arafat-web&show_icons=true&theme=radical&hide_border=true)
 
 ![arafat's Streak](https://github-readme-streak-stats.herokuapp.com/?user=arafat-web&theme=radical&hide_border=true)
 
-
 <h3><summary>:zap: Top Languages</summary></h3>
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arafat-web&repo=github-readme-stats&theme=radical&hide_border=true" />
+ ![arafat's Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=arafat-web&show_icons=true&theme=radical&hide_border=true)
 
 
 
