@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Laravel Projects.
 - 🌱 I’m currently learning Vue and API development.
 - 👯 I’m looking to collaborate with Laravel and API related things.
-- 💬 Ask me about PHP, JAVA SQL, JAVAFX, JSP, LARAVEL, MYSQL 🙄
-- 💻 Student of Computer Science and Engineering
+- 💬 Ask me about PHP, JAVA SQL, JAVAFX, JSP, LARAVEL, MYSQL.
+- 💻 Student of Computer Science and Engineering.
 -  📍 Rajshahi, Bangladesh
 
 <h3><summary>:zap: Connect with me:</summary></h3>
@@ -39,7 +39,6 @@ Here are some ideas to get you started:
 <h3><summary>:zap: Languages and Tools:</summary></h3>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=Java&logoColor=white%22/)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D)
