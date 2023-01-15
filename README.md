@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Laravel Projects.
 - 🌱 I’m currently learning Vue and API development.
 - 👯 I’m looking to collaborate with Laravel and API related things.
-- 💬 Ask me about PHP, JAVA SQL, JAVAFX, JSP, LARAVEL, MYSQL.
+- 💬 Ask me about PHP, Laravel, SQL, MySQL, JAVA, JAVAFX, JSP.
 - 💻 Student of Computer Science and Engineering.
 -  📍 Rajshahi, Bangladesh
 
