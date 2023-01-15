@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arafat-web" alt="arafat-web" /></a> </p>
 
-I am a Full Stack Developer and Desktop app Developer with knowledge of PHP, Java, JavaScript and SQL. I love to work with Laravel, JSP and JavaFX Frameworks, **I'm open to work and employment opportunities**.
+I am a Full Stack Web Developer and Desktop app Developer with knowledge of PHP, Java, JavaScript and SQL. I love to work with Laravel, JSP and JavaFX Frameworks, **I'm open to work and employment opportunities**.
 <!--
 **arafat-hossain-ar/arafat-hossain-ar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
