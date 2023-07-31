@@ -1,6 +1,8 @@
 <!-- ## Hi there! I'm Arafat Hossain Ar👋. -->
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
+[![wakatime](https://wakatime.com/badge/user/3f0a6415-369a-4c43-a20e-36d7bff258b9.svg)](https://wakatime.com/@3f0a6415-369a-4c43-a20e-36d7bff258b9)
+
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=arafat-web&label=Profile%20views&color=0e75b6&style=flat" alt="arafat-web" /> </p> -->
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arafat-web" alt="arafat-web" /></a> </p>
@@ -72,7 +74,6 @@ Here are some ideas to get you started:
 <h3><summary>:zap: Top Languages</summary></h3>
 
  ![arafat's Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=arafat-web&show_icons=true&theme=radical&hide_border=true)
-
 
 
 
