@@ -64,7 +64,6 @@ Here are some ideas to get you started:
 
 <br />
 
-
 <h3><summary>:zap: My GitHub Stats</summary></h3>
 
 ![arafat's Stats](https://github-readme-stats.vercel.app/api?username=arafat-web&show_icons=true&theme=radical&hide_border=true)
@@ -75,7 +74,10 @@ Here are some ideas to get you started:
 
  ![arafat's Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=arafat-web&show_icons=true&theme=radical&hide_border=true)
 
-
+<h3>📍 Holopin Badges</h3>
+<a href='https://holopin.io/@arafatweb'>
+    <img src='https://holopin.me/arafatweb'/>
+</a>
 
 <br />
 <h2>Please give me a [⭐️] if you like my projects!</h2>
