@@ -1,3 +1,4 @@
+<h1 align="center">I STAND WITH OUR BROTHERS & SISTERS IN PALESTINE <img width="50px" src="https://github.com/arafat-web/arafat-web/assets/26932301/71fb4574-6016-48c2-9deb-f0f27811b29f"> </h1>
 <!-- ## Hi there! I'm Arafat Hossain Ar👋. -->
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif" width="30"/> Hi there! I'm Arafat Hossain Ar👋</h1>
 
