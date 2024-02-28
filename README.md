@@ -3,6 +3,8 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif" width="30"/> Hi there! I'm Arafat Hossain Ar👋</h1>
  
 [![wakatime](https://wakatime.com/badge/user/3f0a6415-369a-4c43-a20e-36d7bff258b9.svg)](https://wakatime.com/@3f0a6415-369a-4c43-a20e-36d7bff258b9)
+[![streak](https://codeium.com/badges/v2/user/arafat/streak)](https://codeium.com/profile/arafat)
+[![autocomplete](https://codeium.com/badges/user/arafat/autocomplete)](https://codeium.com/profile/arafat)
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=arafat-web&label=Profile%20views&color=0e75b6&style=flat" alt="arafat-web" /> </p> -->
 
