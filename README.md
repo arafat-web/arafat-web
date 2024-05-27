@@ -18,15 +18,11 @@
 <br />
 </div>
 
-Greetings! I'm Arafat Hossain, a Full-Stack Web Developer with a proven record in crafting seamless web solutions. My technical proficiency spans PHP, Laravel, React, Java, and VueJs, NuxtJs, where I blend cutting-edge technology with precision to transform complex ideas into operational success.
+𝙂𝙧𝙚𝙚𝙩𝙞𝙣𝙜𝙨! 𝙄'𝙢 𝘼𝙧𝙖𝙛𝙖𝙩 𝙃𝙤𝙨𝙨𝙖𝙞𝙣, 𝙖 𝙁𝙪𝙡𝙡-𝙎𝙩𝙖𝙘𝙠 𝙒𝙚𝙗 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧 𝙬𝙞𝙩𝙝 𝙖 𝙥𝙧𝙤𝙫𝙚𝙣 𝙧𝙚𝙘𝙤𝙧𝙙 𝙞𝙣 𝙘𝙧𝙖𝙛𝙩𝙞𝙣𝙜 𝙨𝙚𝙖𝙢𝙡𝙚𝙨𝙨 𝙬𝙚𝙗 𝙨𝙤𝙡𝙪𝙩𝙞𝙤𝙣𝙨. 𝙈𝙮 𝙩𝙚𝙘𝙝𝙣𝙞𝙘𝙖𝙡 𝙥𝙧𝙤𝙛𝙞𝙘𝙞𝙚𝙣𝙘𝙮 𝙨𝙥𝙖𝙣𝙨 𝙋𝙃𝙋, 𝙇𝙖𝙧𝙖𝙫𝙚𝙡, 𝙍𝙚𝙖𝙘𝙩, 𝙅𝙖𝙫𝙖, 𝙖𝙣𝙙 𝙑𝙪𝙚𝙅𝙨, 𝙉𝙪𝙭𝙩𝙅𝙨, 𝙬𝙝𝙚𝙧𝙚 𝙄 𝙗𝙡𝙚𝙣𝙙 𝙘𝙪𝙩𝙩𝙞𝙣𝙜-𝙚𝙙𝙜𝙚 𝙩𝙚𝙘𝙝𝙣𝙤𝙡𝙤𝙜𝙮 𝙬𝙞𝙩𝙝 𝙥𝙧𝙚𝙘𝙞𝙨𝙞𝙤𝙣 𝙩𝙤 𝙩𝙧𝙖𝙣𝙨𝙛𝙤𝙧𝙢 𝙘𝙤𝙢𝙥𝙡𝙚𝙭 𝙞𝙙𝙚𝙖𝙨 𝙞𝙣𝙩𝙤 𝙤𝙥𝙚𝙧𝙖𝙩𝙞𝙤𝙣𝙖𝙡 𝙨𝙪𝙘𝙘𝙚𝙨𝙨.
 
-As a specialist in both frontend and backend development, I excel in creating interfaces that are not only visually appealing but also functionally robust. My technical acumen in database management, API development, and object-oriented programming allows me to develop scalable and efficient applications that meet diverse client needs.
-
-Throughout my career, I have led various projects that turned intricate problems into user-friendly web applications. My commitment to excellence has consistently resulted in projects that exceed client expectations and push the envelope of technology.
-
-- 📘 I'm currently working on Laravel projects and expanding my knowledge in API development.
-- 🌟 Eager to collaborate on projects involving Laravel, APIs, PHP, and more.
-- 📬 Reach me for queries on PHP, Laravel, SQL, MySQL, JAVA, JAVAFX, JSP.
+- 📘 𝙄'𝙢 𝙘𝙪𝙧𝙧𝙚𝙣𝙩𝙡𝙮 𝙬𝙤𝙧𝙠𝙞𝙣𝙜 𝙤𝙣 𝙇𝙖𝙧𝙖𝙫𝙚𝙡 𝙥𝙧𝙤𝙟𝙚𝙘𝙩𝙨 𝙖𝙣𝙙 𝙚𝙭𝙥𝙖𝙣𝙙𝙞𝙣𝙜 𝙢𝙮 𝙠𝙣𝙤𝙬𝙡𝙚𝙙𝙜𝙚 𝙞𝙣 𝘼𝙋𝙄 𝙙𝙚𝙫𝙚𝙡𝙤𝙥𝙢𝙚𝙣𝙩.
+- 🌟 𝙀𝙖𝙜𝙚𝙧 𝙩𝙤 𝙘𝙤𝙡𝙡𝙖𝙗𝙤𝙧𝙖𝙩𝙚 𝙤𝙣 𝙥𝙧𝙤𝙟𝙚𝙘𝙩𝙨 𝙞𝙣𝙫𝙤𝙡𝙫𝙞𝙣𝙜 𝙇𝙖𝙧𝙖𝙫𝙚𝙡, 𝘼𝙋𝙄𝙨, 𝙋𝙃𝙋, 𝙖𝙣𝙙 𝙢𝙤𝙧𝙚.
+- 📬 𝙍𝙚𝙖𝙘𝙝 𝙢𝙚 𝙛𝙤𝙧 𝙦𝙪𝙚𝙧𝙞𝙚𝙨 𝙤𝙣 𝙋𝙃𝙋, 𝙇𝙖𝙧𝙖𝙫𝙚𝙡, 𝙎𝙌𝙇, 𝙈𝙮𝙎𝙌𝙇, 𝙅𝘼𝙑𝘼, 𝙅𝘼𝙑𝘼𝙁𝙓, 𝙅𝙎𝙋.
 
 <h3 align="center">Cᴏɴɴᴇᴄᴛ ᴡɪᴛʜ ᴍᴇ</h3>
 <p align="center">
