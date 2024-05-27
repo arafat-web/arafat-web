@@ -3,7 +3,7 @@ name: Update README with Dev.to Blog Posts
 on:
   push:
     branches:
-      - main 
+      - main  # Change this to your default branch if it's not 'main'
   schedule:
     - cron: '0 * * * *'
 
@@ -21,11 +21,12 @@ jobs:
 
       - name: Install dependencies
         run: |
-          npm install rss-parser fs-extra
+          npm install rss-parser
 
       - name: Fetch and update README
         run: |
-          const fs = require('fs-extra');
+          node -e "
+          const fs = require('fs');
           const Parser = require('rss-parser');
           const parser = new Parser();
           
@@ -34,15 +35,14 @@ jobs:
             let readmeContent = fs.readFileSync('README.md', 'utf8');
             let newBlogContent = '';
             feed.items.slice(0, 5).forEach(item => {
-              newBlogContent += `## [${item.title}](${item.link})\n`;
-              newBlogContent += `![Image](${item.enclosure?.url || 'No image available'})\n`;
-              newBlogContent += `Description: ${item.contentSnippet}\n\n`;
+              newBlogContent += `## [${item.title}](${item.link})\\n`;
+              newBlogContent += `![Image](${item.enclosure?.url || 'No image available'})\\n`;
+              newBlogContent += `Description: ${item.contentSnippet}\\n\\n`;
             });
             
-            const newReadme = readmeContent.replace(/<!-- BLOG-POST-LIST:START -->.*<!-- BLOG-POST-LIST:END -->/s, `<!-- BLOG-POST-LIST:START -->\n${newBlogContent}<!-- BLOG-POST-LIST:END -->`);
+            const newReadme = readmeContent.replace(/<!-- BLOG-POST-LIST:START -->.*<!-- BLOG-POST-LIST:END -->/s, `<!-- BLOG-POST-LIST:START -->\\n${newBlogContent}<!-- BLOG-POST-LIST:END -->`);
             fs.writeFileSync('README.md', newReadme);
-          })();
-        shell: node
+          })();"
 
       - name: Commit and push if changed
         run: |
