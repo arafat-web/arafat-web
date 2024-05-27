@@ -8,8 +8,7 @@ const parser = new Parser();
   let newBlogContent = '';
   feed.items.slice(0, 5).forEach(item => {
     newBlogContent += `## [${item.title}](${item.link})\n`;
-    newBlogContent += `![Image](${item.enclosure?.url || 'No image available'})\n`;
-    newBlogContent += `Description: ${item.contentSnippet}\n\n`;
+    newBlogContent += `${item.pubDate}\n\n`;
   });
 
   const newReadme = readmeContent.replace(/<!-- BLOG-POST-LIST:START -->.*<!-- BLOG-POST-LIST:END -->/s, `<!-- BLOG-POST-LIST:START -->\n${newBlogContent}<!-- BLOG-POST-LIST:END -->`);
