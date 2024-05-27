@@ -7,6 +7,11 @@
 [![autocomplete](https://codeium.com/badges/user/arafat/autocomplete)](https://codeium.com/profile/arafat)
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Laravel Boiler Template: Elevate Your Laravel Experience](https://dev.to/arafatweb/laravel-boiler-template-elevate-your-laravel-experience-411k)
+- [Simplifying Email Communication: Introducing Bulk Email Sender](https://dev.to/arafatweb/simplifying-email-communication-introducing-bulk-email-sender-4ci4)
+- [20 Useful ChatGPT Prompts for Web Developers: Boosting Your Development Journey](https://dev.to/arafatweb/20-useful-chatgpt-prompts-for-web-developers-boosting-your-development-journey-53h4)
+- [Enhancing Web Technology Skills for a Better Future](https://dev.to/arafatweb/enhancing-web-technology-skills-for-a-better-future-21i8)
+- [Responsive Web Design with Flexbox: A Quick Guide with Examples](https://dev.to/arafatweb/responsive-web-design-with-flexbox-a-quick-guide-with-examples-2292)
 <!-- BLOG-POST-LIST:END -->
 <h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
 <p align="center">
