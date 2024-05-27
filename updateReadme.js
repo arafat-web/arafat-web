@@ -8,7 +8,7 @@ const parser = new Parser();
   let newBlogContent = '';
   feed.items.slice(0, 5).forEach(item => {
     const formattedDate = new Date(item.pubDate).toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' }); // Format the date
-    newBlogContent += `### [${item.title}](${item.link})\n`;
+    newBlogContent += `\n### [${item.title}](${item.link})\n`;
     newBlogContent += `📅 ${formattedDate}\n\n`; // Add a calendar emoji for visual appeal
   });
 
