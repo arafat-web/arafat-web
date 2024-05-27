@@ -7,8 +7,9 @@ const parser = new Parser();
   let readmeContent = fs.readFileSync('README.md', 'utf8');
   let newBlogContent = '';
   feed.items.slice(0, 5).forEach(item => {
-    newBlogContent += `## [${item.title}](${item.link})\n`;
-    newBlogContent += `${item.pubDate}\n\n`;
+    const formattedDate = new Date(item.pubDate).toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' }); // Format the date
+    newBlogContent += `### [${item.title}](${item.link})\n`;
+    newBlogContent += `📅 ${formattedDate}\n\n`; // Add a calendar emoji for visual appeal
   });
 
   const newReadme = readmeContent.replace(/<!-- BLOG-POST-LIST:START -->.*<!-- BLOG-POST-LIST:END -->/s, `<!-- BLOG-POST-LIST:START -->\n${newBlogContent}<!-- BLOG-POST-LIST:END -->`);
