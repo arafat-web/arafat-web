@@ -22,17 +22,22 @@
 - 📬 𝙍𝙚𝙖𝙘𝙝 𝙢𝙚 𝙛𝙤𝙧 𝙦𝙪𝙚𝙧𝙞𝙚𝙨 𝙤𝙣 𝙋𝙃𝙋, 𝙇𝙖𝙧𝙖𝙫𝙚𝙡, 𝙎𝙌𝙇, 𝙈𝙮𝙎𝙌𝙇, 𝙅𝘼𝙑𝘼, 𝙅𝘼𝙑𝘼𝙁𝙓, 𝙅𝙎𝙋.
 <h3 align="center">My Recent Blogs</h3>
 <!-- BLOG-POST-LIST:START -->
+
 ### [Laravel Boiler Template: Elevate Your Laravel Experience](https://dev.to/arafatweb/laravel-boiler-template-elevate-your-laravel-experience-411k)
 📅 December 31, 2023
+
 
 ### [Simplifying Email Communication: Introducing Bulk Email Sender](https://dev.to/arafatweb/simplifying-email-communication-introducing-bulk-email-sender-4ci4)
 📅 October 9, 2023
 
+
 ### [20 Useful ChatGPT Prompts for Web Developers: Boosting Your Development Journey](https://dev.to/arafatweb/20-useful-chatgpt-prompts-for-web-developers-boosting-your-development-journey-53h4)
 📅 October 5, 2023
 
+
 ### [Enhancing Web Technology Skills for a Better Future](https://dev.to/arafatweb/enhancing-web-technology-skills-for-a-better-future-21i8)
 📅 October 5, 2023
+
 
 ### [Responsive Web Design with Flexbox: A Quick Guide with Examples](https://dev.to/arafatweb/responsive-web-design-with-flexbox-a-quick-guide-with-examples-2292)
 📅 October 5, 2023
