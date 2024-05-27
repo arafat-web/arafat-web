@@ -1,19 +1,53 @@
-name: Latest blog post workflow
+name: Update README with Dev.to Blog Posts
 
 on:
   push:
     branches:
-      - main  
+      - main 
   schedule:
-    # Runs every hour
     - cron: '0 * * * *'
 
 jobs:
-  update-readme-with-blog:
-    name: Latest blog posts
+  update-readme:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v2
         with:
-          feed_list: 'https://dev.to/feed/arafatweb'
+          node-version: '14'
+
+      - name: Install dependencies
+        run: |
+          npm install rss-parser fs-extra
+
+      - name: Fetch and update README
+        run: |
+          const fs = require('fs-extra');
+          const Parser = require('rss-parser');
+          const parser = new Parser();
+          
+          (async () => {
+            const feed = await parser.parseURL('https://dev.to/feed/arafatweb');
+            let readmeContent = fs.readFileSync('README.md', 'utf8');
+            let newBlogContent = '';
+            feed.items.slice(0, 5).forEach(item => {
+              newBlogContent += `## [${item.title}](${item.link})\n`;
+              newBlogContent += `![Image](${item.enclosure?.url || 'No image available'})\n`;
+              newBlogContent += `Description: ${item.contentSnippet}\n\n`;
+            });
+            
+            const newReadme = readmeContent.replace(/<!-- BLOG-POST-LIST:START -->.*<!-- BLOG-POST-LIST:END -->/s, `<!-- BLOG-POST-LIST:START -->\n${newBlogContent}<!-- BLOG-POST-LIST:END -->`);
+            fs.writeFileSync('README.md', newReadme);
+          })();
+        shell: node
+
+      - name: Commit and push if changed
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md
+          git commit -m "Update README with latest blog posts" -a || echo "No changes to commit"
+          git push
