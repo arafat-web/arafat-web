@@ -1,14 +1,13 @@
 <h1 align="center">I STAND WITH OUR BROTHERS & SISTERS IN PALESTINE <img src="https://github.com/arafat-web/arafat-web/assets/26932301/71fb4574-6016-48c2-9deb-f0f27811b29f" width="50px"> </h1>
-
 <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif" width="30"/> Hɪ ᴛʜᴇʀᴇ! I'ᴍ Aʀᴀғᴀᴛ Hᴏssᴀɪɴ Aʀ👋</h1>
-
-
 <div align="center">
   
 [![wakatime](https://wakatime.com/badge/user/3f0a6415-369a-4c43-a20e-36d7bff258b9.svg)](https://wakatime.com/@3f0a6415-369a-4c43-a20e-36d7bff258b9)
 [![streak](https://codeium.com/badges/v2/user/arafat/streak)](https://codeium.com/profile/arafat)
 [![autocomplete](https://codeium.com/badges/user/arafat/autocomplete)](https://codeium.com/profile/arafat)
-
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 <h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
 <p align="center">
   <a href="https://github.com/arafat-web/github-profile-trophy">
