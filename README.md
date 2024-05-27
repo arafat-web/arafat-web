@@ -5,14 +5,7 @@
 [![wakatime](https://wakatime.com/badge/user/3f0a6415-369a-4c43-a20e-36d7bff258b9.svg)](https://wakatime.com/@3f0a6415-369a-4c43-a20e-36d7bff258b9)
 [![streak](https://codeium.com/badges/v2/user/arafat/streak)](https://codeium.com/profile/arafat)
 [![autocomplete](https://codeium.com/badges/user/arafat/autocomplete)](https://codeium.com/profile/arafat)
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-- [Laravel Boiler Template: Elevate Your Laravel Experience](https://dev.to/arafatweb/laravel-boiler-template-elevate-your-laravel-experience-411k)
-- [Simplifying Email Communication: Introducing Bulk Email Sender](https://dev.to/arafatweb/simplifying-email-communication-introducing-bulk-email-sender-4ci4)
-- [20 Useful ChatGPT Prompts for Web Developers: Boosting Your Development Journey](https://dev.to/arafatweb/20-useful-chatgpt-prompts-for-web-developers-boosting-your-development-journey-53h4)
-- [Enhancing Web Technology Skills for a Better Future](https://dev.to/arafatweb/enhancing-web-technology-skills-for-a-better-future-21i8)
-- [Responsive Web Design with Flexbox: A Quick Guide with Examples](https://dev.to/arafatweb/responsive-web-design-with-flexbox-a-quick-guide-with-examples-2292)
-<!-- BLOG-POST-LIST:END -->
+
 <h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
 <p align="center">
   <a href="https://github.com/arafat-web/github-profile-trophy">
@@ -27,7 +20,9 @@
 - 📘 𝙄'𝙢 𝙘𝙪𝙧𝙧𝙚𝙣𝙩𝙡𝙮 𝙬𝙤𝙧𝙠𝙞𝙣𝙜 𝙤𝙣 𝙇𝙖𝙧𝙖𝙫𝙚𝙡 𝙥𝙧𝙤𝙟𝙚𝙘𝙩𝙨 𝙖𝙣𝙙 𝙚𝙭𝙥𝙖𝙣𝙙𝙞𝙣𝙜 𝙢𝙮 𝙠𝙣𝙤𝙬𝙡𝙚𝙙𝙜𝙚 𝙞𝙣 𝘼𝙋𝙄 𝙙𝙚𝙫𝙚𝙡𝙤𝙥𝙢𝙚𝙣𝙩.
 - 🌟 𝙀𝙖𝙜𝙚𝙧 𝙩𝙤 𝙘𝙤𝙡𝙡𝙖𝙗𝙤𝙧𝙖𝙩𝙚 𝙤𝙣 𝙥𝙧𝙤𝙟𝙚𝙘𝙩𝙨 𝙞𝙣𝙫𝙤𝙡𝙫𝙞𝙣𝙜 𝙇𝙖𝙧𝙖𝙫𝙚𝙡, 𝘼𝙋𝙄𝙨, 𝙋𝙃𝙋, 𝙖𝙣𝙙 𝙢𝙤𝙧𝙚.
 - 📬 𝙍𝙚𝙖𝙘𝙝 𝙢𝙚 𝙛𝙤𝙧 𝙦𝙪𝙚𝙧𝙞𝙚𝙨 𝙤𝙣 𝙋𝙃𝙋, 𝙇𝙖𝙧𝙖𝙫𝙚𝙡, 𝙎𝙌𝙇, 𝙈𝙮𝙎𝙌𝙇, 𝙅𝘼𝙑𝘼, 𝙅𝘼𝙑𝘼𝙁𝙓, 𝙅𝙎𝙋.
-
+<h3 align="center">My Recent Blogs</h3>
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 <h3 align="center">Cᴏɴɴᴇᴄᴛ ᴡɪᴛʜ ᴍᴇ</h3>
 <p align="center">
   <a href="https://facebook.com/arafathossain000"><img alt="Arafat | FaceBook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
