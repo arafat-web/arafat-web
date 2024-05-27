@@ -23,6 +23,10 @@
 <h3 align="center">Mʏ Rᴇᴄᴇɴᴛ Bʟᴏɢs</h3>
 <!-- BLOG-POST-LIST:START -->
 
+### [How to Use GitHub Actions to Display Dev.to Blog Posts on Your README.md](https://dev.to/arafatweb/how-to-use-github-actions-to-display-devto-blog-posts-on-your-readmemd-362f)
+📅 May 27, 2024
+
+
 ### [Laravel Boiler Template: Elevate Your Laravel Experience](https://dev.to/arafatweb/laravel-boiler-template-elevate-your-laravel-experience-411k)
 📅 December 31, 2023
 
@@ -36,10 +40,6 @@
 
 
 ### [Enhancing Web Technology Skills for a Better Future](https://dev.to/arafatweb/enhancing-web-technology-skills-for-a-better-future-21i8)
-📅 October 5, 2023
-
-
-### [Responsive Web Design with Flexbox: A Quick Guide with Examples](https://dev.to/arafatweb/responsive-web-design-with-flexbox-a-quick-guide-with-examples-2292)
 📅 October 5, 2023
 
 <!-- BLOG-POST-LIST:END -->
