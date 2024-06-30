@@ -23,6 +23,10 @@
 <h3 align="center">Mʏ Rᴇᴄᴇɴᴛ Bʟᴏɢs</h3>
 <!-- BLOG-POST-LIST:START -->
 
+### [The Ultimate Guide to Laravel: A PHP Framework for Modern Web Applications](https://dev.to/arafatweb/the-ultimate-guide-to-laravel-a-php-framework-for-modern-web-applications-2c3g)
+📅 June 30, 2024
+
+
 ### [How to Use GitHub Actions to Display Dev.to Blog Posts on Your README.md](https://dev.to/arafatweb/how-to-use-github-actions-to-display-devto-blog-posts-on-your-readmemd-362f)
 📅 May 27, 2024
 
@@ -36,10 +40,6 @@
 
 
 ### [20 Useful ChatGPT Prompts for Web Developers: Boosting Your Development Journey](https://dev.to/arafatweb/20-useful-chatgpt-prompts-for-web-developers-boosting-your-development-journey-53h4)
-📅 October 5, 2023
-
-
-### [Enhancing Web Technology Skills for a Better Future](https://dev.to/arafatweb/enhancing-web-technology-skills-for-a-better-future-21i8)
 📅 October 5, 2023
 
 <!-- BLOG-POST-LIST:END -->
