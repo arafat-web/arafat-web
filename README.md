@@ -23,6 +23,10 @@
 <h3 align="center">Mʏ Rᴇᴄᴇɴᴛ Bʟᴏɢs</h3>
 <!-- BLOG-POST-LIST:START -->
 
+### [Top 10 VS Code Extensions for PHP Developers in 2024](https://dev.to/arafatweb/top-10-vs-code-extensions-for-php-developers-in-2024-2m08)
+📅 July 1, 2024
+
+
 ### [The Ultimate Guide to Laravel: A PHP Framework for Modern Web Applications](https://dev.to/arafatweb/the-ultimate-guide-to-laravel-a-php-framework-for-modern-web-applications-2c3g)
 📅 June 30, 2024
 
@@ -37,10 +41,6 @@
 
 ### [Simplifying Email Communication: Introducing Bulk Email Sender](https://dev.to/arafatweb/simplifying-email-communication-introducing-bulk-email-sender-4ci4)
 📅 October 9, 2023
-
-
-### [20 Useful ChatGPT Prompts for Web Developers: Boosting Your Development Journey](https://dev.to/arafatweb/20-useful-chatgpt-prompts-for-web-developers-boosting-your-development-journey-53h4)
-📅 October 5, 2023
 
 <!-- BLOG-POST-LIST:END -->
 <h3 align="center">Cᴏɴɴᴇᴄᴛ ᴡɪᴛʜ ᴍᴇ</h3>
