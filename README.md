@@ -23,6 +23,10 @@
 <h3 align="center">Mʏ Rᴇᴄᴇɴᴛ Bʟᴏɢs</h3>
 <!-- BLOG-POST-LIST:START -->
 
+### [Top 3 PHP Frameworks: Speed, Response Time, and Efficiency Compared](https://dev.to/arafatweb/top-3-php-frameworks-speed-response-time-and-efficiency-compared-25bi)
+📅 July 1, 2024
+
+
 ### [Top 10 VS Code Extensions for PHP Developers in 2024](https://dev.to/arafatweb/top-10-vs-code-extensions-for-php-developers-in-2024-2m08)
 📅 July 1, 2024
 
@@ -37,10 +41,6 @@
 
 ### [Laravel Boiler Template: Elevate Your Laravel Experience](https://dev.to/arafatweb/laravel-boiler-template-elevate-your-laravel-experience-411k)
 📅 December 31, 2023
-
-
-### [Simplifying Email Communication: Introducing Bulk Email Sender](https://dev.to/arafatweb/simplifying-email-communication-introducing-bulk-email-sender-4ci4)
-📅 October 9, 2023
 
 <!-- BLOG-POST-LIST:END -->
 <h3 align="center">Cᴏɴɴᴇᴄᴛ ᴡɪᴛʜ ᴍᴇ</h3>
