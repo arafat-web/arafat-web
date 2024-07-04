@@ -23,6 +23,10 @@
 <h3 align="center">Mʏ Rᴇᴄᴇɴᴛ Bʟᴏɢs</h3>
 <!-- BLOG-POST-LIST:START -->
 
+### [Project Management with Task Manager: An Open-Source Laravel Application](https://dev.to/arafatweb/project-management-with-task-manager-an-open-source-laravel-application-2655)
+📅 July 4, 2024
+
+
 ### [Top 3 PHP Frameworks: Speed, Response Time, and Efficiency Compared](https://dev.to/arafatweb/top-3-php-frameworks-speed-response-time-and-efficiency-compared-25bi)
 📅 July 1, 2024
 
@@ -37,10 +41,6 @@
 
 ### [How to Use GitHub Actions to Display Dev.to Blog Posts on Your README.md](https://dev.to/arafatweb/how-to-use-github-actions-to-display-devto-blog-posts-on-your-readmemd-362f)
 📅 May 27, 2024
-
-
-### [Laravel Boiler Template: Elevate Your Laravel Experience](https://dev.to/arafatweb/laravel-boiler-template-elevate-your-laravel-experience-411k)
-📅 December 31, 2023
 
 <!-- BLOG-POST-LIST:END -->
 <h3 align="center">Cᴏɴɴᴇᴄᴛ ᴡɪᴛʜ ᴍᴇ</h3>
