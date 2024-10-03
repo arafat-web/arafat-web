@@ -23,6 +23,10 @@
 <h3 align="center">Mʏ Rᴇᴄᴇɴᴛ Bʟᴏɢs</h3>
 <!-- BLOG-POST-LIST:START -->
 
+### [Introducing Built with Laravel](https://dev.to/arafatweb/introducing-built-with-laravel-1a9e)
+📅 October 3, 2024
+
+
 ### [Highlights from Laracon US 2024 Keynote](https://dev.to/arafatweb/highlights-from-laracon-us-2024-keynote-110a)
 📅 September 2, 2024
 
@@ -37,10 +41,6 @@
 
 ### [Top 10 VS Code Extensions for PHP Developers in 2024](https://dev.to/arafatweb/top-10-vs-code-extensions-for-php-developers-in-2024-2m08)
 📅 July 1, 2024
-
-
-### [The Ultimate Guide to Laravel: A PHP Framework for Modern Web Applications](https://dev.to/arafatweb/the-ultimate-guide-to-laravel-a-php-framework-for-modern-web-applications-2c3g)
-📅 June 30, 2024
 
 <!-- BLOG-POST-LIST:END -->
 <h3 align="center">Cᴏɴɴᴇᴄᴛ ᴡɪᴛʜ ᴍᴇ</h3>
