@@ -23,24 +23,24 @@
 <h3 align="center">Mʏ Rᴇᴄᴇɴᴛ Bʟᴏɢs</h3>
 <!-- BLOG-POST-LIST:START -->
 
+### [Understanding PSR-12: The PHP Coding Style Guide](https://dev.to/arafatweb/understanding-psr-12-the-php-coding-style-guide-2joe)
+📅 October 21, 2024
+
+
+### [Clean Code Architecture in Laravel: A Practical Guide](https://dev.to/arafatweb/clean-code-architecture-in-laravel-a-practical-guide-ho2)
+📅 October 21, 2024
+
+
+### [A Simple Guide to Domain-Driven Design (DDD) in Laravel](https://dev.to/arafatweb/a-simple-guide-to-domain-driven-design-ddd-in-laravel-15cp)
+📅 October 21, 2024
+
+
 ### [Understanding Laravel's MorphTo Relation: A Practical Guide](https://dev.to/arafatweb/understanding-laravels-morphto-relation-a-practical-guide-2l3p)
 📅 October 5, 2024
 
 
 ### [Introducing Built with Laravel](https://dev.to/arafatweb/introducing-built-with-laravel-1a9e)
 📅 October 3, 2024
-
-
-### [Highlights from Laracon US 2024 Keynote](https://dev.to/arafatweb/highlights-from-laracon-us-2024-keynote-110a)
-📅 September 2, 2024
-
-
-### [Project Management with Task Manager: An Open-Source Laravel Application](https://dev.to/arafatweb/project-management-with-task-manager-an-open-source-laravel-application-2655)
-📅 July 4, 2024
-
-
-### [Top 3 PHP Frameworks: Speed, Response Time, and Efficiency Compared](https://dev.to/arafatweb/top-3-php-frameworks-speed-response-time-and-efficiency-compared-25bi)
-📅 July 1, 2024
 
 <!-- BLOG-POST-LIST:END -->
 <h3 align="center">Cᴏɴɴᴇᴄᴛ ᴡɪᴛʜ ᴍᴇ</h3>
