@@ -23,6 +23,10 @@
 <h3 align="center">Mʏ Rᴇᴄᴇɴᴛ Bʟᴏɢs</h3>
 <!-- BLOG-POST-LIST:START -->
 
+### [Machine Learning in PHP: Build a News Classifier Using Rubix ML](https://dev.to/arafatweb/machine-learning-in-php-build-a-news-classifier-using-rubix-ml-e45)
+📅 November 1, 2024
+
+
 ### [Understanding PSR-12: The PHP Coding Style Guide](https://dev.to/arafatweb/understanding-psr-12-the-php-coding-style-guide-2joe)
 📅 October 21, 2024
 
@@ -37,10 +41,6 @@
 
 ### [Understanding Laravel's MorphTo Relation: A Practical Guide](https://dev.to/arafatweb/understanding-laravels-morphto-relation-a-practical-guide-2l3p)
 📅 October 5, 2024
-
-
-### [Introducing Built with Laravel](https://dev.to/arafatweb/introducing-built-with-laravel-1a9e)
-📅 October 3, 2024
 
 <!-- BLOG-POST-LIST:END -->
 <h3 align="center">Cᴏɴɴᴇᴄᴛ ᴡɪᴛʜ ᴍᴇ</h3>
