@@ -23,6 +23,10 @@
 <h3 align="center">Mʏ Rᴇᴄᴇɴᴛ Bʟᴏɢs</h3>
 <!-- BLOG-POST-LIST:START -->
 
+### [Unit Testing in Laravel: A Practical Approach for Developers](https://dev.to/arafatweb/unit-testing-in-laravel-a-practical-approach-for-developers-7oa)
+📅 November 20, 2024
+
+
 ### [Machine Learning in PHP: Build a News Classifier Using Rubix ML](https://dev.to/arafatweb/machine-learning-in-php-build-a-news-classifier-using-rubix-ml-e45)
 📅 November 1, 2024
 
@@ -37,10 +41,6 @@
 
 ### [A Simple Guide to Domain-Driven Design (DDD) in Laravel](https://dev.to/arafatweb/a-simple-guide-to-domain-driven-design-ddd-in-laravel-15cp)
 📅 October 21, 2024
-
-
-### [Understanding Laravel's MorphTo Relation: A Practical Guide](https://dev.to/arafatweb/understanding-laravels-morphto-relation-a-practical-guide-2l3p)
-📅 October 5, 2024
 
 <!-- BLOG-POST-LIST:END -->
 <h3 align="center">Cᴏɴɴᴇᴄᴛ ᴡɪᴛʜ ᴍᴇ</h3>
