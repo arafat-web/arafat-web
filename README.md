@@ -23,6 +23,10 @@
 <h3 align="center">Mʏ Rᴇᴄᴇɴᴛ Bʟᴏɢs</h3>
 <!-- BLOG-POST-LIST:START -->
 
+### [PHP 8.4: Breaking Down the Big Updates (With Examples)](https://dev.to/arafatweb/php-84-breaking-down-the-big-updates-with-examples-25o8)
+📅 November 23, 2024
+
+
 ### [Unit Testing in Laravel: A Practical Approach for Developers](https://dev.to/arafatweb/unit-testing-in-laravel-a-practical-approach-for-developers-7oa)
 📅 November 20, 2024
 
@@ -36,10 +40,6 @@
 
 
 ### [Clean Code Architecture in Laravel: A Practical Guide](https://dev.to/arafatweb/clean-code-architecture-in-laravel-a-practical-guide-ho2)
-📅 October 21, 2024
-
-
-### [A Simple Guide to Domain-Driven Design (DDD) in Laravel](https://dev.to/arafatweb/a-simple-guide-to-domain-driven-design-ddd-in-laravel-15cp)
 📅 October 21, 2024
 
 <!-- BLOG-POST-LIST:END -->
