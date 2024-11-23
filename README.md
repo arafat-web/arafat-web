@@ -23,6 +23,10 @@
 <h3 align="center">Mʏ Rᴇᴄᴇɴᴛ Bʟᴏɢs</h3>
 <!-- BLOG-POST-LIST:START -->
 
+### [Have you noticed? When you type in the Quickie Post text box, it grows larger with every keystroke—it feels like an unintentional bug. But hey, Quickie Post is finally here, and it’s looking amazing! 🥳](https://dev.to/arafatweb/have-you-noticed-when-you-type-in-the-quickie-post-text-box-it-grows-larger-with-every-3339)
+📅 November 23, 2024
+
+
 ### [PHP 8.4: Breaking Down the Big Updates (With Examples)](https://dev.to/arafatweb/php-84-breaking-down-the-big-updates-with-examples-25o8)
 📅 November 23, 2024
 
@@ -36,10 +40,6 @@
 
 
 ### [Understanding PSR-12: The PHP Coding Style Guide](https://dev.to/arafatweb/understanding-psr-12-the-php-coding-style-guide-2joe)
-📅 October 21, 2024
-
-
-### [Clean Code Architecture in Laravel: A Practical Guide](https://dev.to/arafatweb/clean-code-architecture-in-laravel-a-practical-guide-ho2)
 📅 October 21, 2024
 
 <!-- BLOG-POST-LIST:END -->
