@@ -27,10 +27,6 @@
 📅 November 23, 2024
 
 
-### [PHP 8.4: Breaking Down the Big Updates (With Examples)](https://dev.to/arafatweb/php-84-breaking-down-the-big-updates-with-examples-25o8)
-📅 November 23, 2024
-
-
 ### [Unit Testing in Laravel: A Practical Approach for Developers](https://dev.to/arafatweb/unit-testing-in-laravel-a-practical-approach-for-developers-7oa)
 📅 November 20, 2024
 
@@ -40,6 +36,10 @@
 
 
 ### [Understanding PSR-12: The PHP Coding Style Guide](https://dev.to/arafatweb/understanding-psr-12-the-php-coding-style-guide-2joe)
+📅 October 21, 2024
+
+
+### [Clean Code Architecture in Laravel: A Practical Guide](https://dev.to/arafatweb/clean-code-architecture-in-laravel-a-practical-guide-ho2)
 📅 October 21, 2024
 
 <!-- BLOG-POST-LIST:END -->
