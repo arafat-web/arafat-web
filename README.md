@@ -23,6 +23,10 @@
 <h3 align="center">Mʏ Rᴇᴄᴇɴᴛ Bʟᴏɢs</h3>
 <!-- BLOG-POST-LIST:START -->
 
+### [Building a PHP CRUD Application with OOP and MySQL: A Best Practice Guide](https://dev.to/arafatweb/building-a-php-crud-application-with-oop-and-mysql-a-best-practice-guide-19p)
+📅 January 10, 2025
+
+
 ### [Unit Testing in Laravel: A Practical Approach for Developers](https://dev.to/arafatweb/unit-testing-in-laravel-a-practical-approach-for-developers-7oa)
 📅 November 20, 2024
 
@@ -36,10 +40,6 @@
 
 
 ### [Clean Code Architecture in Laravel: A Practical Guide](https://dev.to/arafatweb/clean-code-architecture-in-laravel-a-practical-guide-ho2)
-📅 October 21, 2024
-
-
-### [A Simple Guide to Domain-Driven Design (DDD) in Laravel](https://dev.to/arafatweb/a-simple-guide-to-domain-driven-design-ddd-in-laravel-15cp)
 📅 October 21, 2024
 
 <!-- BLOG-POST-LIST:END -->
