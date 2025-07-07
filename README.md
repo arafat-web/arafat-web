@@ -4,7 +4,7 @@
   
 [![wakatime](https://wakatime.com/badge/user/3f0a6415-369a-4c43-a20e-36d7bff258b9.svg)](https://wakatime.com/@3f0a6415-369a-4c43-a20e-36d7bff258b9)
 <!-- [![streak](https://codeium.com/badges/v2/user/arafat/streak)](https://codeium.com/profile/arafat)  -->
-[![autocomplete](https://codeium.com/badges/user/arafat/autocomplete)](https://codeium.com/profile/arafat)
+<!--[![autocomplete](https://codeium.com/badges/user/arafat/autocomplete)](https://codeium.com/profile/arafat)-->
 
 <h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
 <p align="center">
