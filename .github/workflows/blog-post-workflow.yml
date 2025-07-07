@@ -3,7 +3,7 @@ name: Update README with Dev.to Blog Posts
 on:
   push:
     branches:
-      - main  # Change this to your default branch if it's not 'main'
+      - main 
   schedule:
     - cron: '0 * * * *'
 
