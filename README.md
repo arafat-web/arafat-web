@@ -23,6 +23,14 @@
 <h3 align="center">Mʏ Rᴇᴄᴇɴᴛ Bʟᴏɢs</h3>
 <!-- BLOG-POST-LIST:START -->
 
+### [Design Your Database with dbdiagram.io (Beginner to Pro)](https://dev.to/arafatweb/design-your-database-with-dbdiagramio-beginner-to-pro-20j6)
+📅 June 26, 2025
+
+
+### [🚀 10 Laravel Eloquent Tricks You Didn’t Know (But Will Love!)](https://dev.to/arafatweb/10-laravel-eloquent-tricks-you-didnt-know-but-will-love-505c)
+📅 April 21, 2025
+
+
 ### [Building a PHP CRUD Application with OOP and MySQL: A Best Practice Guide](https://dev.to/arafatweb/building-a-php-crud-application-with-oop-and-mysql-a-best-practice-guide-19p)
 📅 January 10, 2025
 
@@ -33,14 +41,6 @@
 
 ### [Machine Learning in PHP: Build a News Classifier Using Rubix ML](https://dev.to/arafatweb/machine-learning-in-php-build-a-news-classifier-using-rubix-ml-e45)
 📅 November 1, 2024
-
-
-### [Understanding PSR-12: The PHP Coding Style Guide](https://dev.to/arafatweb/understanding-psr-12-the-php-coding-style-guide-2joe)
-📅 October 21, 2024
-
-
-### [Clean Code Architecture in Laravel: A Practical Guide](https://dev.to/arafatweb/clean-code-architecture-in-laravel-a-practical-guide-ho2)
-📅 October 21, 2024
 
 <!-- BLOG-POST-LIST:END -->
 <h3 align="center">Cᴏɴɴᴇᴄᴛ ᴡɪᴛʜ ᴍᴇ</h3>
