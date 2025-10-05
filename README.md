@@ -23,6 +23,10 @@
 <h3 align="center">Mʏ Rᴇᴄᴇɴᴛ Bʟᴏɢs</h3>
 <!-- BLOG-POST-LIST:START -->
 
+### [Top 10 VS Code Extensions for Laravel Developers in 2025](https://dev.to/arafatweb/top-10-vs-code-extensions-for-laravel-developers-in-2025-1np5)
+📅 September 29, 2025
+
+
 ### [Bulk Email Sender v2.0: From Simple Tool to Professional Email Marketing Platform](https://dev.to/arafatweb/bulk-email-sender-v20-from-simple-tool-to-professional-email-marketing-platform-29dm)
 📅 July 26, 2025
 
@@ -37,10 +41,6 @@
 
 ### [Building a PHP CRUD Application with OOP and MySQL: A Best Practice Guide](https://dev.to/arafatweb/building-a-php-crud-application-with-oop-and-mysql-a-best-practice-guide-19p)
 📅 January 10, 2025
-
-
-### [Unit Testing in Laravel: A Practical Approach for Developers](https://dev.to/arafatweb/unit-testing-in-laravel-a-practical-approach-for-developers-7oa)
-📅 November 20, 2024
 
 <!-- BLOG-POST-LIST:END -->
 <h3 align="center">Cᴏɴɴᴇᴄᴛ ᴡɪᴛʜ ᴍᴇ</h3>
