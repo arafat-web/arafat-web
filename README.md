@@ -23,6 +23,10 @@
 <h3 align="center">Mʏ Rᴇᴄᴇɴᴛ Bʟᴏɢs</h3>
 <!-- BLOG-POST-LIST:START -->
 
+### [Understanding the Laravel Lifecycle (Explained for Beginners)](https://dev.to/arafatweb/understanding-the-laravel-lifecycle-explained-for-beginners-dc6)
+📅 October 5, 2025
+
+
 ### [Top 10 VS Code Extensions for Laravel Developers in 2025](https://dev.to/arafatweb/top-10-vs-code-extensions-for-laravel-developers-in-2025-1np5)
 📅 September 29, 2025
 
@@ -37,10 +41,6 @@
 
 ### [🚀 10 Laravel Eloquent Tricks You Didn’t Know (But Will Love!)](https://dev.to/arafatweb/10-laravel-eloquent-tricks-you-didnt-know-but-will-love-505c)
 📅 April 21, 2025
-
-
-### [Building a PHP CRUD Application with OOP and MySQL: A Best Practice Guide](https://dev.to/arafatweb/building-a-php-crud-application-with-oop-and-mysql-a-best-practice-guide-19p)
-📅 January 10, 2025
 
 <!-- BLOG-POST-LIST:END -->
 <h3 align="center">Cᴏɴɴᴇᴄᴛ ᴡɪᴛʜ ᴍᴇ</h3>
