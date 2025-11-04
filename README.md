@@ -1,4 +1,4 @@
-<h1 align="center">I STAND WITH OUR BROTHERS & SISTERS IN PALESTINE <img src="https://github.com/arafat-web/arafat-web/assets/26932301/71fb4574-6016-48c2-9deb-f0f27811b29f" width="50px"> </h1>
+<!-- <h1 align="center">I STAND WITH OUR BROTHERS & SISTERS IN PALESTINE <img src="https://github.com/arafat-web/arafat-web/assets/26932301/71fb4574-6016-48c2-9deb-f0f27811b29f" width="50px"> </h1> -->
 <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif" width="30"/> Hɪ ᴛʜᴇʀᴇ! I'ᴍ Aʀᴀғᴀᴛ Hᴏssᴀɪɴ Aʀ👋</h1>
 <div align="center">
   
