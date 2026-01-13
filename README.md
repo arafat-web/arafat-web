@@ -23,6 +23,10 @@
 <h3 align="center">Mʏ Rᴇᴄᴇɴᴛ Bʟᴏɢs</h3>
 <!-- BLOG-POST-LIST:START -->
 
+### [Pusher vs Socket.io Explained for Beginners](https://dev.to/arafatweb/pusher-vs-socketio-explained-for-beginners-5d0p)
+📅 January 13, 2026
+
+
 ### [Understanding the Laravel Lifecycle (Explained for Beginners)](https://dev.to/arafatweb/understanding-the-laravel-lifecycle-explained-for-beginners-dc6)
 📅 October 5, 2025
 
@@ -37,10 +41,6 @@
 
 ### [Design Your Database with dbdiagram.io (Beginner to Pro)](https://dev.to/arafatweb/design-your-database-with-dbdiagramio-beginner-to-pro-20j6)
 📅 June 26, 2025
-
-
-### [🚀 10 Laravel Eloquent Tricks You Didn’t Know (But Will Love!)](https://dev.to/arafatweb/10-laravel-eloquent-tricks-you-didnt-know-but-will-love-505c)
-📅 April 21, 2025
 
 <!-- BLOG-POST-LIST:END -->
 <h3 align="center">Cᴏɴɴᴇᴄᴛ ᴡɪᴛʜ ᴍᴇ</h3>
