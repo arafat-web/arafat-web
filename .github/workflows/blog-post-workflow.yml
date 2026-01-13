@@ -30,6 +30,7 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
+          git pull
           git add README.md
           git commit -m "Update README with latest blog posts" -a || echo "No changes to commit"
           git push
