@@ -4,7 +4,10 @@
   
 [![wakatime](https://wakatime.com/badge/user/3f0a6415-369a-4c43-a20e-36d7bff258b9.svg)](https://wakatime.com/@3f0a6415-369a-4c43-a20e-36d7bff258b9)
 <!-- [![streak](https://codeium.com/badges/v2/user/arafat/streak)](https://codeium.com/profile/arafat)  -->
-<!--[![autocomplete](https://codeium.com/badges/user/arafat/autocomplete)](https://codeium.com/profile/arafat)-->
+<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
+<p align="center">
+  <img src="https://github-stats.arafatdev.com/stats.php?username=arafat-web" />
+</p>
 
 <h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
 <p align="center">
@@ -52,6 +55,7 @@
 </p>
 
 <h3 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h3>
+
 <p align="center">
   <!-- Existing Badges -->
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
@@ -77,47 +81,13 @@
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
-<!-- <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
+ 
+<h3 align="center">🏆 Mᴏsᴛ Usᴇᴅ Lᴀɴɢᴜᴀɢᴇs & Tʀᴏᴘʜɪᴇs 🏆</h3>
 
-<table width="100%">
-  <tr>
-    <td width="50%">
-      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/arafat-web">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=arafat-web&count_private=true&show_icons=true&theme=nightowl" alt="GitHub Stats" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/arafat-web">
-          <img align="center" src="https://streak-stats.demolab.com?user=arafat-web&theme=nightowl" alt="Streak Stats" />
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center"><strong>Mᴏsᴛ Usᴇᴅ Lᴀɴɢᴜᴀɢᴇs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/arafat-web">
-          <img align="center" style="width: 475px; height: 200px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arafat-web&layout=compact&theme=radical&hide_border=false&show_owner=true" alt="Top lang" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/arafat-web">
-          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=arafat-web&limit=3&theme=nightowl&show_owner=true&combine_all_yearly_contributions=true" alt="Top Repo" />
-        </a>
-      </p>
-    </td>
-  </tr>
-</table> -->
-<br />
+<p align="center">
+  <img src="https://github-stats.arafatdev.com/languages.php?username=arafat-web" width="48%" />
+  <img src="https://github-stats.arafatdev.com/trophy.php?username=arafat-web" width="48%" />
+</p>
 
 <!--Contribution Graph-->
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
@@ -125,7 +95,7 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=arafat-web&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
 </div>
 
-<h3 align="center">📍 Hᴏʟᴏᴘɪɴ Bᴀᴅɢᴇs</h3>
+<h3 align="center">📍 Hᴏʟᴏᴘɪɴ Bᴀᴅɢᴇs 📍</h3>
 <a href='https://holopin.io/@arafatweb'>
     <img src='https://holopin.me/arafatweb'/>
 </a>
