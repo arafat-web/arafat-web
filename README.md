@@ -26,6 +26,10 @@
 <h3 align="center">Mʏ Rᴇᴄᴇɴᴛ Bʟᴏɢs</h3>
 <!-- BLOG-POST-LIST:START -->
 
+### [Top 10 VS Code Extensions for PHP Developers in 2026](https://dev.to/arafatweb/top-10-vs-code-extensions-for-php-developers-in-2026-199m)
+📅 January 25, 2026
+
+
 ### [Pusher vs Socket.io Explained for Beginners](https://dev.to/arafatweb/pusher-vs-socketio-explained-for-beginners-5d0p)
 📅 January 13, 2026
 
@@ -40,10 +44,6 @@
 
 ### [Bulk Email Sender v2.0: From Simple Tool to Professional Email Marketing Platform](https://dev.to/arafatweb/bulk-email-sender-v20-from-simple-tool-to-professional-email-marketing-platform-29dm)
 📅 July 26, 2025
-
-
-### [Design Your Database with dbdiagram.io (Beginner to Pro)](https://dev.to/arafatweb/design-your-database-with-dbdiagramio-beginner-to-pro-20j6)
-📅 June 26, 2025
 
 <!-- BLOG-POST-LIST:END -->
 <h3 align="center">Cᴏɴɴᴇᴄᴛ ᴡɪᴛʜ ᴍᴇ</h3>
