@@ -26,6 +26,10 @@
 <h3 align="center">Mʏ Rᴇᴄᴇɴᴛ Bʟᴏɢs</h3>
 <!-- BLOG-POST-LIST:START -->
 
+### [Is PHP Still a Valuable Programming Language in 2026?](https://dev.to/arafatweb/is-php-still-a-valuable-programming-language-in-2026-3449)
+📅 January 27, 2026
+
+
 ### [Top 10 VS Code Extensions for PHP Developers in 2026](https://dev.to/arafatweb/top-10-vs-code-extensions-for-php-developers-in-2026-199m)
 📅 January 25, 2026
 
@@ -40,10 +44,6 @@
 
 ### [Top 10 VS Code Extensions for Laravel Developers in 2025](https://dev.to/arafatweb/top-10-vs-code-extensions-for-laravel-developers-in-2025-1np5)
 📅 September 29, 2025
-
-
-### [Bulk Email Sender v2.0: From Simple Tool to Professional Email Marketing Platform](https://dev.to/arafatweb/bulk-email-sender-v20-from-simple-tool-to-professional-email-marketing-platform-29dm)
-📅 July 26, 2025
 
 <!-- BLOG-POST-LIST:END -->
 <h3 align="center">Cᴏɴɴᴇᴄᴛ ᴡɪᴛʜ ᴍᴇ</h3>
