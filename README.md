@@ -26,6 +26,10 @@
 <h3 align="center">Mʏ Rᴇᴄᴇɴᴛ Bʟᴏɢs</h3>
 <!-- BLOG-POST-LIST:START -->
 
+### [How to Use AI Without Ruining Your Programming Skills](https://dev.to/arafatweb/how-to-use-ai-without-ruining-your-programming-skills-2538)
+📅 February 18, 2026
+
+
 ### [Is PHP Still a Valuable Programming Language in 2026?](https://dev.to/arafatweb/is-php-still-a-valuable-programming-language-in-2026-3449)
 📅 January 27, 2026
 
@@ -40,10 +44,6 @@
 
 ### [Understanding the Laravel Lifecycle (Explained for Beginners)](https://dev.to/arafatweb/understanding-the-laravel-lifecycle-explained-for-beginners-dc6)
 📅 October 5, 2025
-
-
-### [Top 10 VS Code Extensions for Laravel Developers in 2025](https://dev.to/arafatweb/top-10-vs-code-extensions-for-laravel-developers-in-2025-1np5)
-📅 September 29, 2025
 
 <!-- BLOG-POST-LIST:END -->
 <h3 align="center">Cᴏɴɴᴇᴄᴛ ᴡɪᴛʜ ᴍᴇ</h3>
