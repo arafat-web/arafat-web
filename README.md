@@ -26,6 +26,10 @@
 <h3 align="center">Mʏ Rᴇᴄᴇɴᴛ Bʟᴏɢs</h3>
 <!-- BLOG-POST-LIST:START -->
 
+### [Building a Personal Blog with Laravel: A Real World Project](https://dev.to/arafatweb/building-a-personal-blog-with-laravel-a-real-world-project-4mhp)
+📅 August 23, 2026
+
+
 ### [How to Use AI Without Ruining Your Programming Skills](https://dev.to/arafatweb/how-to-use-ai-without-ruining-your-programming-skills-2538)
 📅 February 18, 2026
 
@@ -40,10 +44,6 @@
 
 ### [Pusher vs Socket.io Explained for Beginners](https://dev.to/arafatweb/pusher-vs-socketio-explained-for-beginners-5d0p)
 📅 January 13, 2026
-
-
-### [Understanding the Laravel Lifecycle (Explained for Beginners)](https://dev.to/arafatweb/understanding-the-laravel-lifecycle-explained-for-beginners-dc6)
-📅 October 5, 2025
 
 <!-- BLOG-POST-LIST:END -->
 <h3 align="center">Cᴏɴɴᴇᴄᴛ ᴡɪᴛʜ ᴍᴇ</h3>
